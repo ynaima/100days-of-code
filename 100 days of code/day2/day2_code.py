@@ -59,4 +59,5 @@ isFemale = True
 
 print(f"{name} is a student whose height is {height}, weight is {weight} and is a {isFemale}")
 
-
+#can be used to round off float point numbers
+print("{:.2f}".format(123.77777777))

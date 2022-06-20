@@ -35,4 +35,6 @@ type(3) = < class 'int' >
 
   N/B
   if they have the same precedence, then operation goes from left to right
+  use of f-strings 
+  use of rounf function 
   
