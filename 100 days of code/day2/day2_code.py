@@ -41,3 +41,22 @@ print("hello " + str(123))
 
 #you can use the type function to inspect the data type we are working with.
 
+#precedence
+print(3-3 + 3/3 * 3)
+
+# excercise BM1 CALCULATOR WEIGHT/HEIGHT^2
+
+
+#rounding numbers using round function 
+print(round(7/3, 2))    # the second parameter is the number of decimal places/ digits of precesion, by default round function rounds it to a whole number
+
+#f-srings  -> allows you to concaentate string with values of other data types without doing manual type conversion
+
+name = "Fatima"
+height = 1.94
+weight = 90
+isFemale = True
+
+print(f"{name} is a student whose height is {height}, weight is {weight} and is a {isFemale}")
+
+

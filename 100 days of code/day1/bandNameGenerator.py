@@ -1,3 +1,5 @@
+"""This project prompts a user for the name of the city where they live and the name of their favourite pet, combine
+the two to create a band name by cncatenating te two names."""
 #create a greeting for your program
 print("Welcome to the Band Name Generator")
 #ask the user for the city they grew up in

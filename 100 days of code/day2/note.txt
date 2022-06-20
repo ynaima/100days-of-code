@@ -1,0 +1,38 @@
+day2 
+primitive data types - strings, intergers, floats, boolean(true and False)
+you get type error (when you try to use a funtion or an operation with the wrong type)
+for instance:
+       len("hello") = 5
+       len("123") = 3
+       len(123)  = Type error
+       print("helllo" + 3)  = gives type Error because we cannot concatenate strings with intergers
+
+we can convert a type of data to a different type in order to avoid type Error 
+to check type of a data use the type function
+type(3) = < class 'int' >
+  print("helllo" + str(3) ) = hello3
+
+  print(70 +100) = 170
+  print(str(70) + str(170)) = 70170
+
+
+  MATHEMATICAL OPERATIONS IN PYTHON
+  + -> for adding two numbers or concatenating strtings
+  - -> for subtracting numbers
+  * for multiplying numbers
+  / for dividing numbers (gives back a float)
+  // -> also called integer division (gives integer)  (5//2) = 2
+  % -> module -gives the remaining of integer division  (5 % 2) = 1
+  ** -> power    (2**2) = 4
+
+
+  PRECEDENCE IN OPERATIONS
+  () - go first 
+  ** 
+  */ ->same PRECEDENCE
+  +-  - lowest PRECEDENCE
+
+
+  N/B
+  if they have the same precedence, then operation goes from left to right
+  

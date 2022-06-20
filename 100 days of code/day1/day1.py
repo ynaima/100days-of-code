@@ -1,6 +1,5 @@
 # this is the first days of 100 days of code. hopefully I can go to the end of the code.
 #The print funtion -> used to output data
-from re import A
 
 
 print("Hello World!")
